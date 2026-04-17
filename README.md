@@ -43,6 +43,7 @@ It is designed for quick learning by presenting concise insights while allowing 
 1. Clone the repository
 
 git clone https://github.com/shamimarqam/infoshots.git
+
 cd infoshots
 
 2. Install dependencies
